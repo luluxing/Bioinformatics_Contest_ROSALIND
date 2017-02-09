@@ -20,4 +20,4 @@ The first line of the input contains an original DNA sequence represented as a s
 
 ## Output Format
 
-The first line of the output should contain a possible DNA sequence after the splicing. Next nn lines should contain one integer each - the position of the corresponding read in the proposed DNA sequence after the splicing. The position are counted starting from one. If your output doesn't contain some of the reads then you can put −1−1 in the corresponding line.
+The first line of the output should contain a possible DNA sequence after the splicing. Next nn lines should contain one integer each - the position of the corresponding read in the proposed DNA sequence after the splicing. The position are counted starting from one. If your output doesn't contain some of the reads then you can put -1 in the corresponding line.
